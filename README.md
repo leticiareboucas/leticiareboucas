@@ -1,5 +1,5 @@
 - 👋🌍 Hello World, I’m @leticiareboucas
-- 👀☀️ I'm interested in new adventures
+-  ☀️ I'm interested in new adventures
 -  😀 I'm currently learning advanced English
 
 <!---
